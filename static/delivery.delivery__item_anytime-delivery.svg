@@ -1,0 +1,21 @@
+<svg id="Слой_1" onload="setClock()" xmlns="http://www.w3.org/2000/svg" viewBox="29.3 29.2 240.7 240.8"><script><![CDATA[
+var xmlns="http://www.w3.org/2000/svg"
+function setClock()
+{
+ var date = new Date()
+ var h = parseInt(date.getHours())
+ h = h > 12 ? h-12: h
+ var m = parseInt(date.getMinutes())
+ var s = parseInt(date.getSeconds())
+ var second = 6*s
+ var minute =(m+s/60)*6
+ var hour = (h+m/60+s/3600)*30
+ var hourHand = document.getElementById("hour")
+ var minuteHand = document.getElementById("minute")
+ var secondHand = document.getElementById("second")
+ hourHand.setAttribute("transform","rotate("+ hour.toString() +")")
+ minuteHand.setAttribute("transform","rotate("+ minute.toString() +")")
+ secondHand.setAttribute("transform","rotate("+ second.toString() +")")
+}
+
+		]]></script><g transform="translate(150 150)"><g fill="none"><circle stroke="gray" stroke-width="4" r="108"/><circle stroke="#000" stroke-width="11" stroke-dasharray="4,46.7891" r="97"/><circle stroke="#000" stroke-width="5" stroke-dasharray="2,8.472" r="100"/></g><g id="hands" transform="rotate(180)"><g id="hour"><path opacity=".5" fill="none" stroke="#00F" stroke-width="5" stroke-linecap="round" d="M0 0v75"/><animateTransform fill="remove" type="rotate" dur="12h" by="360" restart="always" additive="replace" repeatCount="indefinite" calcMode="linear" accumulate="none" attributeName="transform"/><circle r="7"/></g><g id="minute"><path opacity=".9" fill="none" stroke="green" stroke-width="4" stroke-linecap="round" d="M0 0v93"/><animateTransform fill="remove" type="rotate" dur="60min" by="360" restart="always" additive="replace" repeatCount="indefinite" calcMode="linear" accumulate="none" attributeName="transform"/><circle fill="#F00" r="6"/></g><g id="second"><path fill="none" stroke="#F00" stroke-width="2" stroke-linecap="round" d="M0-20v122"/><animateTransform fill="remove" type="rotate" dur="60s" by="360" restart="always" additive="replace" repeatCount="indefinite" calcMode="linear" accumulate="none" attributeName="transform"/><circle fill="#00F" r="4"/></g></g></g></svg>
