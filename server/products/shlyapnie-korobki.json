@@ -1,0 +1,344 @@
+{
+    "products_1": [
+        {
+            "name": "Мини бокс Classic",
+            "descr": "Роза голландская",
+            "numbers": "9-11 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "3 900",
+            "images": [
+                "square-small-box/square-small-black-box-pink-roses.jpg",
+                "square-small-box/square-small-black-box-white-roses.jpg",
+                "square-small-box/square-small-black-box-red-roses.jpg",
+                "square-small-box/square-small-black-box-purple-roses.jpg"
+            ]
+        },
+        {
+            "name": "Мини бокс Classic",
+            "descr": "Роза голландская",
+            "numbers": "9-11 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "3 900",
+            "images": [
+                "square-small-box/square-small-white-box-pink-roses.jpg",
+                "square-small-box/square-small-white-box-white-roses.jpg",
+                "square-small-box/square-small-white-box-red-roses.jpg",
+                "square-small-box/square-small-white-box-purple-roses.jpg"
+            ]
+        },
+        {
+            "name": "Мини бокс Classic",
+            "descr": "Роза голландская",
+            "numbers": "16 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "4 700",
+            "images": [
+                "square-small-box/square-small-black-box-white-roses-16.jpg",
+                "square-small-box/square-small-black-box-red-roses-16.jpg",
+                "square-small-box/square-small-black-box-pink-roses-16.jpg",
+                "square-small-box/square-small-black-box-purple-roses-16.jpg"
+            ]
+        },
+        {
+            "name": "Мини бокс Classic",
+            "descr": "Роза голландская",
+            "numbers": "16 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "4 700",
+            "images": [
+                "square-small-box/square-small-white-box-white-roses-16.jpg",
+                "square-small-box/square-small-white-box-red-roses-16.jpg",
+                "square-small-box/square-small-white-box-pink-roses-16.jpg",
+                "square-small-box/square-small-white-box-purple-roses-16.jpg"
+            ]
+        },
+        {
+            "name": "Средний бокс Classic",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "бокс/шляпная коробка",
+            "packing_color": "чёрный/белый",
+            "price": "6 500",
+            "images": [
+                "square-medium-box/square-medium-black-box-white-roses.jpg",
+                "square-medium-box/square-medium-black-box-red-roses.jpg",
+                "square-medium-box/square-medium-black-box-pink-roses.jpg",
+                "square-medium-box/square-medium-black-box-purple-roses.jpg"
+            ]
+        },
+        {
+            "name": "Розы в коробках Classic",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "бокс/шляпная коробка",
+            "packing_color": "чёрный/белый",
+            "price": "6 500",
+            "images": [
+                "square-medium-box/square-medium-white-box-white-roses.jpg",
+                "square-medium-box/square-medium-white-box-red-roses.jpg",
+                "square-medium-box/square-medium-white-box-pink-roses.jpg",
+                "square-medium-box/square-medium-white-box-purple-roses.jpg"
+            ]
+        },
+        {
+            "name": "Средний бокс Classic",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "бокс/шляпная коробка",
+            "packing_color": "чёрный/белый",
+            "price": "6 500",
+            "images": [
+                "round-medium-box/round-medium-black-box-white-roses.jpg",
+                "round-medium-box/round-medium-black-box-red-roses.jpg",
+                "round-medium-box/round-medium-black-box-pink-roses.jpg",
+                "round-medium-box/round-medium-black-box-purple-roses.jpg"
+            ]
+        },
+        {
+            "name": "Средний бокс Classic",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "бокс/шляпная коробка",
+            "packing_color": "чёрный/белый",
+            "price": "6 500",
+            "images": [
+                "round-medium-box/round-medium-white-box-white-roses.jpg",
+                "round-medium-box/round-medium-white-box-red-roses.jpg",
+                "round-medium-box/round-medium-white-box-pink-roses.jpg",
+                "round-medium-box/round-medium-white-box-purple-roses.jpg"
+            ]
+        },
+        {
+            "name": "Большой бокс Classic",
+            "descr": "Роза голландская",
+            "numbers": "51 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "10 500",
+            "images": [
+                "round-big-box/round-big-black-box-white-roses.jpg",
+                "round-big-box/round-big-black-box-red-roses.jpg",
+                "round-big-box/round-big-black-box-pink-roses.jpg"
+            ]
+        },
+        {
+            "name": "Большой бокс Classic",
+            "descr": "Роза голландская",
+            "numbers": "51 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "10 500",
+            "images": [
+                "square-big-box/square-big-black-box-purple-roses.jpg",
+                "square-big-box/square-big-black-box-white-roses.jpg",
+                "square-big-box/square-big-black-box-white-roses.jpg",
+                "square-big-box/square-big-black-box-pink-roses.jpg"
+            ]
+        },
+        {
+            "name": "Большой бокс Classic",
+            "descr": "Роза голландская",
+            "numbers": "51 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "10 500",
+            "images": [
+                "square-big-box/square-big-white-box-purple-roses.jpg",
+                "square-big-box/square-big-white-box-white-roses.jpg",
+                "square-big-box/square-big-white-box-red-roses.jpg",
+                "square-big-box/square-big-white-box-pink-roses.jpg"
+            ]
+        },
+        {
+            "name": "Пионовидные розы в шляпной коробке",
+            "descr": "Роза кустовая-преимум",
+            "numbers": "25 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "7 500",
+            "images": [
+                "round-medium-box/round-medium-black-box-whitebubles-roses.jpg",
+                "round-medium-box/round-medium-white-box-whitebubles-roses.jpg",
+                "round-medium-box/round-medium-black-box-bubles-roses.jpg",
+                "round-medium-box/round-medium-white-box-bubles-roses.jpg"
+            ]
+        },
+        {
+            "name": "Мини бокс Exotic",
+            "descr": "Роза голландская",
+            "numbers": "9-11 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "6 900",
+            "images": [
+                "square-small-box/square-small-black-box-black-roses.jpg",
+                "square-small-box/square-small-black-box-blue-roses.jpg",
+                "square-small-box/square-small-black-box-blue-roses.jpg"
+            ]
+        },
+        {
+            "name": "Мини бокс Exotic",
+            "descr": "Роза голландская",
+            "numbers": "9-11 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "6 900",
+            "images": [
+                "square-small-box/square-small-white-box-black-roses.jpg",
+                "square-small-box/square-small-white-box-blue-roses.jpg",
+                "square-small-box/square-small-white-box-rainbow-roses.jpg"
+            ]
+        },
+        {
+            "name": "Средний бокс Exotic",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "9 900",
+            "images": [
+                "square-medium-box/square-medium-black-box-black-roses.jpg",
+                "square-medium-box/square-medium-black-box-blue-roses.jpg",
+                "square-medium-box/square-medium-black-box-rainbow-roses.jpg"
+            ]
+        },
+        {
+            "name": "Средний бокс Exotic",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/бедый",
+            "price": "9 900",
+            "images": [
+                "square-medium-box/square-medium-white-box-black-roses.jpg",
+                "square-medium-box/square-medium-white-box-blue-roses.jpg",
+                "square-medium-box/square-medium-white-box-rainbow-roses.jpg"
+            ]
+        },
+        {
+            "name": "Большой бокс Exotic",
+            "descr": "Роза голландская",
+            "numbers": "49-51 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "18 500",
+            "images": [
+                "square-big-box/square-big-black-box-rainbow-roses.jpg",
+                "square-big-box/square-big-black-box-blue-roses.jpg",
+                "square-big-box/square-big-black-box-black-roses.jpg"
+            ]
+        },
+        {
+            "name": "Большой бокс Exotic",
+            "descr": "Роза голландская",
+            "numbers": "49-51 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "18 500",
+            "images": [
+                "square-big-box/square-big-white-box-rainbow-roses.jpg",
+                "square-big-box/square-big-white-box-blue-roses.jpg",
+                "square-big-box/square-big-white-box-black-roses.jpg"
+            ]
+        }
+    ],
+    "products_2": [
+        {
+            "name": "Jadore Classic",
+            "descr": "Роза голландская",
+            "numbers": "51 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "10 900",
+            "images": [
+                "jadore/34.jpg",
+                "jadore/35.jpg",
+                "jadore/32.jpg",
+                "jadore/33.jpg",
+                "jadore/28.jpg",
+                "jadore/30.jpg"
+            ]
+        },
+        {
+            "name": "Jadore summer mix",
+            "descr": "",
+            "numbers": "",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "13 900",
+            "images": [
+                "jadore/24.jpg",
+                "jadore/5.jpg",
+                "jadore/7.jpg",
+                "jadore/27.jpg"
+            ]
+        },
+        {
+            "name": "Jadore Love mix",
+            "descr": "",
+            "numbers": "",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "13 900",
+            "images": [
+                "jadore/36.jpg",
+                "jadore/31.jpg",
+                "jadore/16.jpg",
+                "jadore/12.jpg",
+                "jadore/25.jpg",
+                "jadore/23.jpg"
+            ]
+        },
+        {
+            "name": "Jadore Red mix",
+            "descr": "",
+            "numbers": "",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "13 900",
+            "images": [
+                "jadore/9.jpg",
+                "jadore/11.jpg",
+                "jadore/10.jpg",
+                "jadore/14.jpg",
+                "jadore/26.jpg",
+                "jadore/29.jpg"
+            ]
+        },
+        {
+            "name": "Jadore Red mix",
+            "descr": "",
+            "numbers": "",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "13 900",
+            "images": [
+                "jadore/6.jpg",
+                "jadore/1.jpg",
+                "jadore/15.jpg",
+                "jadore/17.jpg",
+                "jadore/20.jpg"
+            ]
+        },
+        {
+            "name": "Royal Mix в шляпной коробке",
+            "descr": "",
+            "numbers": "",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "7 500",
+            "images": [
+                "royalmix/royalmix1.jpg",
+                "royalmix/royalmix2.jpg",
+                "royalmix/royalmix3.jpg",
+                "royalmix/royalmix4.jpg",
+                "royalmix/royalmix5.jpg",
+                "royalmix/royalmix6.jpg"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "products_1": [
+        {
+            "name": "Белые розы в вазе",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "4 500",
+            "images": [
+                "vase/white-rose-vase.jpg"
+            ]
+        },
+        {
+            "name": "Красные розы в вазе",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "4 500",
+            "images": [
+                "vase/red-rose-vase.jpg"
+            ]
+        },
+        {
+            "name": "Розовые розы в вазе",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "4 500",
+            "images": [
+                "vase/pink-rose-vase.jpg"
+            ]
+        },
+        {
+            "name": "Фиолетовые розы в вазе",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "4 500",
+            "images": [
+                "vase/purple-rose-vase.jpg"
+            ]
+        },
+        {
+            "name": "Жёлтые розы в вазе",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "4 500",
+            "images": [
+                "vase/yellow-rose-vase.jpg"
+            ]
+        },
+        {
+            "name": "Гортензии в вазе Classic",
+            "descr": "Гортензия",
+            "numbers": "5 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "4 500",
+            "images": [
+                "vase/red-gort-vase.jpg",
+                "vase/blue-gort-vase.jpg",
+                "vase/purple-gort-vase.jpg"
+            ]
+        },
+        {
+            "name": "Синие розы в вазе",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "9 900",
+            "images": [
+                "vase/blue-rose-vase.jpg"
+            ]
+        },
+        {
+            "name": "Пионовидные кустовые розы в вазе",
+            "descr": "Роза кустовая-преимум",
+            "numbers": "25 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "7 500",
+            "images": [
+                "vase/white-bubles-minirose-vase.jpg",
+                "vase/bubles-minirose-vase.jpg",
+                "vase/yellow-minirose-vase.jpg",
+                "vase/minirose-mix-vase.jpg"
+            ]
+        },
+        {
+            "name": "Каллы в вазе",
+            "descr": "Каллы",
+            "numbers": "25 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "9 500",
+            "images": [
+                "vase/white-callas-vase.jpg",
+                "vase/red-callas-vase.jpg",
+                "vase/black-callas-vase.jpg"
+            ]
+        }
+    ],
+    "products_2": [
+        {
+            "name": "RoyalMix в вазе",
+            "descr": "Альстромерия, Пион, Роза, Роза кустовая, Эустома",
+            "numbers": "",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "10 500",
+            "images": [
+                "vase/1mix-rose-vase.jpg"
+            ]
+        },
+        {
+            "name": "RoyalMix в вазе",
+            "descr": "Георгин, Гортензия, Пион, Роза, Эустома",
+            "numbers": "",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "10 500",
+            "images": [
+                "vase/2mix-rose-vase.jpg"
+            ]
+        },
+        {
+            "name": "RoyalMix в вазе",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "10 500",
+            "images": [
+                "vase/3mix-rose-vase.jpg"
+            ]
+        }
+    ]
+}

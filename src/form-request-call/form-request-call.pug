@@ -1,0 +1,29 @@
+.modal#request-call
+  .modal__dialog
+    .modal__header
+      h2.modal__title Мы перезвоним!
+      button(type='button').icon.icon_close
+
+    .modal__body
+      form.form.form_request-call
+        p.form__tips Оставьте свой контактый телефон, и наш специалист свяжется с вами, чтобы ответить на все вопросы.
+        .form__field
+          label(for='request-call-phone').form__label Контактный номер телефона
+          input(type='text', placeholder='+7 (000) 000-00-00', name='phone', id='request-call-phone', required, autofocus).form__input
+          p.form__input-error
+        .form__controls
+          .form-submission-result.form-submission-result_error
+            .form-submission-result__block
+              p.form-submission-result__smile :–(
+              p.form-submission-result__text Почему-то нет связи, не можем принять заявку.
+            .form-submission-result__block
+              p.form-submission-result__text Будьте добры, позвоните нам по телефону:
+              p.form-submission-result__phone 8 (499) 346-71-71
+            .form-submission-result__block
+              p.form-submission-result__text Приносим извинения за неудобства!
+          button(type='submit').btn.btn_submit Заказать звонок
+          p.form__tips Перезвоним в течение 5 минут
+
+      .form-submission-result.form-submission-result_success
+        .form-submission-result__block
+          p.form-submission-result__text Заявка принята. Будьте на связи, менеджер в ближайшее время позвонит.

@@ -1,0 +1,46 @@
+.modal#order
+  .modal__dialog
+    .modal__header
+      h2.modal__title Форма заказа
+      button(type='button').icon.icon_close
+    .modal__body
+      .chosen-product
+        .chosen-product__img-container
+          img(src='', alt='', width='224', height='226').chosen-product__img
+        .chosen-product__info
+          p.chosen-product__name
+          p.chosen-product__details
+          ul.chosen-product__bonuses
+            li.chosen-product__bonuses-item.chosen-product__bonuses-item_card Открытка в подарок
+            li.chosen-product__bonuses-item.chosen-product__bonuses-item_free-delivery Бесплатная доставка по Москве
+            li.chosen-product__bonuses-item.chosen-product__bonuses-item_photo Фото перед отправкой
+          p.chosen-product__price
+
+      form.form.form_order
+        p.form__tips Отправьте заявку и мы свяжемся с вами для уточнения всех подробностей по доставке и ответим на все ваши вопросы!
+        input(type='hidden', name='product', id='order-product').form__input
+        .form__field
+          label(for='order-phone').form__label Телефон
+          input(id='order-phone', type='text', placeholder='+7 (000) 000-00-00', required, autofocus).form__input
+          p.form__input-error
+        .form__field
+          label(for='order-comment').form__label Комментарий
+          textarea(id='order-comment', placeholder='Ваш комментарий').form__textarea
+          p.form__input-error
+        .form__controls
+          .form-submission-result.form-submission-result_error
+            .form-submission-result__block
+              p.form-submission-result__smile :–(
+              p.form-submission-result__text Почему-то нет связи, не можем оформить заказ.
+            .form-submission-result__block
+              p.form-submission-result__text Будьте добры, позвоните нам по телефону:
+              p.form-submission-result__phone 8 (499) 346-71-71
+            .form-submission-result__block
+              p.form-submission-result__text Приносим извинения за неудобства!
+          button(type='submit').btn.btn_submit Оформить заказ
+          p.form__tips Мы перезвоним вам в течении 5 минут
+
+      .form-submission-result.form-submission-result_success
+        .form-submission-result__block
+          p.form-submission-result__smile :–)
+          p.form-submission-result__text Спасибо, заказ принят. Будьте на связи, менеджер позвонит и уточнит детали.

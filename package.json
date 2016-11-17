@@ -1,0 +1,39 @@
+{
+  "name": "royal_flowers.ru",
+  "author": "Anastasiia Kozenko",
+  "version": "1.0.0",
+  "description": "Интернет-магазин цветов - royal-flowers.ru",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-eslint": "*",
+    "babel-loader": "*",
+    "babel-preset-es2015": "*",
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-pug": "*",
+    "gulp-stylus": "*",
+    "nib": "*",
+    "gulp-rename": "*",
+    "gulp-data": "*",
+    "gulp-load-plugins": "*",
+    "gulp-plumber": "*",
+    "gulp-sync": "*",
+    "gulp-notify": "*",
+    "del": "^*",
+    "gulp-imagemin": "*",
+    "imagemin-jpeg-recompress": "*",
+    "imagemin-pngquant": "*",
+    "vinyl-named": "*",
+    "webpack": "*",
+    "webpack-dev-server": "*",
+    "webpack-hot-middleware": "*",
+    "webpack-stream": "*"
+  },
+  "dependencies": {
+    "express": "*",
+    "nodemailer": "*",
+    "nodemailer-smtp-transport": "*"
+  }
+}

@@ -1,0 +1,31 @@
+.personal-bouquet
+  border 1px dashed #666
+  border-radius 3px
+  padding 24px 60px 24px 85px
+  margin 40px 0
+
+  &__container
+    display inline-block
+    vertical-align middle
+    max-width 65%
+    padding-left 85px
+    margin-right 40px
+    position relative
+
+    &::before
+      absolute-vertical-centered()
+      content ''
+      width 58px
+      height 72px
+      background url('static/personal-bouquet.svg') no-repeat center
+      background-size contain
+
+  &__title
+    font-size 32px
+    font-weight 300
+    margin 0 0 5px 0
+
+  &__text
+    color #010101
+    font 300 16px font-family-add
+    margin 0

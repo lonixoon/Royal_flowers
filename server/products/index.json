@@ -1,0 +1,306 @@
+{
+    "products_1": [
+        {
+            "name": "25 роз Classic",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "3 900",
+            "images": [
+                "51-roses/25-white-rose-craft.jpg",
+                "51-roses/25-red-rose-craft.jpg",
+                "51-roses/25-pink-rose-craft.jpg",
+                "51-roses/25-purple-rose-craft.jpg"
+            ]
+        },
+        {
+            "name": "25 роз в вазе Classic",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "4 500",
+            "images": [
+                "vase/red-rose-vase.jpg",
+                "vase/white-rose-vase.jpg",
+                "vase/pink-rose-vase.jpg",
+                "vase/purple-rose-vase.jpg"
+            ]
+        },
+        {
+            "name": "Мини бокс Classic",
+            "descr": "Роза голландская",
+            "numbers": "9-11 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "3 900",
+            "images": [
+                "square-small-box/square-small-white-box-pink-roses.jpg",
+                "square-small-box/square-small-white-box-purple-roses.jpg",
+                "square-small-box/square-small-white-box-red-roses.jpg",
+                "square-small-box/square-small-white-box-white-roses.jpg",
+                "square-small-box/square-small-black-box-pink-roses.jpg",
+                "square-small-box/square-small-black-box-purple-roses.jpg",
+                "square-small-box/square-small-black-box-red-roses.jpg",
+                "square-small-box/square-small-black-box-white-roses.jpg"
+            ]
+        },
+        {
+            "name": "51 роза Classic",
+            "descr": "Роза голландская",
+            "numbers": "51 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "6 500",
+            "images": [
+                "51-roses/51-purple-rose-craft.jpg",
+                "51-roses/51-white-rose-craft.jpg",
+                "51-roses/51-red-rose-craft.jpg",
+                "51-roses/51-pink-rose-craft.jpg"
+            ]
+        },
+        {
+            "name": "51 роза в вазе Classic",
+            "descr": "Роза голлансдкая",
+            "numbers": "51 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "6 900",
+            "images": [
+                "vase/51-white-rose-vase.jpg",
+                "vase/51-red-rose-vase.jpg",
+                "vase/51-pink-rose-vase.jpg",
+                "vase/51-purple-rose-vase.jpg"
+            ]
+        },
+        {
+            "name": "Розы в коробках Classic",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "бокс/шляпная коробка",
+            "packing_color": "чёрный/белый",
+            "price": "6 500",
+            "images": [
+                "round-medium-box/round-medium-black-box-white-roses.jpg",
+                "square-medium-box/square-medium-black-box-red-roses.jpg",
+                "square-medium-box/square-medium-black-box-pink-roses.jpg",
+                "square-medium-box/square-medium-black-box-purple-roses.jpg",
+                "square-medium-box/square-medium-white-box-white-roses.jpg",
+                "round-medium-box/round-medium-white-box-red-roses.jpg",
+                "square-medium-box/square-medium-white-box-pink-roses.jpg",
+                "square-medium-box/square-medium-white-box-purple-roses.jpg"
+            ]
+        },
+        {
+            "name": "101 роза Classic",
+            "descr": "Роза голландская",
+            "numbers": "51 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "9 500",
+            "images": [
+                "51-roses/101-white-rose-craft.jpg",
+                "51-roses/101-red-rose-craft.jpg",
+                "51-roses/101-purple-rose-craft.jpg",
+                "51-roses/101-yellow-rose-craft.jpg"
+            ]
+        },
+        {
+            "name": "101 роза в вазе Classic",
+            "descr": "Роза голландская",
+            "numbers": "51 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "9 900",
+            "images": [
+                "vase/101-red-rose-vase.jpg",
+                "vase/101-white-rose-vase.jpg"
+            ]
+        },
+        {
+            "name": "Большой бокс Classic",
+            "descr": "Роза голландская",
+            "numbers": "51 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "10 500",
+            "images": [
+                "square-big-box/square-big-black-box-purple-roses.jpg",
+                "square-big-box/square-big-black-box-pink-roses.jpg",
+                "square-big-box/square-big-black-box-red-roses.jpg",
+                "square-big-box/square-big-black-box-white-roses.jpg",
+                "square-big-box/square-big-white-box-white-roses.jpg",
+                "square-big-box/square-big-white-box-red-roses.jpg",
+                "square-big-box/square-big-white-box-pink-roses.jpg",
+                "square-big-box/square-big-white-box-purple-roses.jpg"
+            ]
+        },
+        {
+            "name": "25 роз Exotic",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "9 500",
+            "images": [
+                "51-roses/25-rainbow-rose-craft.jpg",
+                "51-roses/25-black-rose-craft.jpg"
+            ]
+        },
+        {
+            "name": "25 роз в вазе Exotic",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "9 900",
+            "images": [
+                "vase/blue-rose-vase.jpg",
+                "vase/black-rose-vase.jpg"
+            ]
+        },
+        {
+            "name": "Мини бокс Exotic",
+            "descr": "Роза голландская",
+            "numbers": "9-11 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "6 900",
+            "images": [
+                "square-small-box/square-small-black-box-black-roses.jpg",
+                "square-small-box/square-small-black-box-rainbow-roses.jpg",
+                "square-small-box/square-small-black-box-blue-roses.jpg",
+                "square-small-box/square-small-white-box-black-roses.jpg",
+                "square-small-box/square-small-white-box-rainbow-roses.jpg",
+                "square-small-box/square-small-white-box-blue-roses.jpg"
+            ]
+        },
+        {
+            "name": "51 роза Exotic",
+            "descr": "Роза голландская",
+            "numbers": "51 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "16 500",
+            "images": [
+                "51-roses/51-blue-rose-craft.jpg",
+                "51-roses/51-rainbow-rose-craft.jpg",
+                "51-roses/51-black-rose-craft.jpg"
+            ]
+        },
+        {
+            "name": "Средний бокс Exotic",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "9 900",
+            "images": [
+                "square-medium-box/square-medium-black-box-black-roses.jpg",
+                "square-medium-box/square-medium-black-box-rainbow-roses.jpg",
+                "square-medium-box/square-medium-black-box-blue-roses.jpg",
+                "square-medium-box/square-medium-white-box-black-roses.jpg",
+                "round-medium-box/round-medium-white-box-rainbow-roses.jpg",
+                "round-medium-box/round-medium-white-box-blue-roses.jpg"
+            ]
+        },
+        {
+            "name": "Большой бокс Exotic",
+            "descr": "Роза голландская",
+            "numbers": "49-51 шт.",
+            "packing": "коробка",
+            "packing_color": "чёрный/белый",
+            "price": "18 500",
+            "images": [
+                "round-big-box/round-big-black-box-rainbow-roses.jpg",
+                "square-big-box/square-big-black-box-blue-roses.jpg",
+                "square-big-box/square-big-black-box-black-roses.jpg",
+                "square-big-box/square-big-white-box-black-roses.jpg",
+                "square-big-box/square-big-white-box-rainbow-roses.jpg",
+                "round-big-box/round-big-white-box-blue-roses.jpg"
+            ]
+        },
+        {
+            "name": "Пионовидные кустовые розы",
+            "descr": "Роза кустовая-преимум",
+            "numbers": "25 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "6 900",
+            "images": [
+                "51-roses/21-bubles-rose.jpg",
+                "51-roses/21-white-miniroses-craft.jpg",
+                "51-roses/21-yellow-miniroses-craft.jpg",
+                "51-roses/21-pink2-miniroses-craft.jpg",
+                "51-roses/21-pink-miniroses-craft.jpg"
+            ]
+        },
+        {
+            "name": "Пионовидные кустовые розы в  вазе",
+            "descr": "Роза кустовая-премиум",
+            "numbers": "25 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "7 500",
+            "images": [
+                "vase/white-bubles-minirose-vase.jpg",
+                "vase/bubles-minirose-vase.jpg",
+                "vase/yellow-minirose-vase.jpg",
+                "vase/minirose-mix-vase.jpg"
+            ]
+        },
+        {
+            "name": "51 пионовидная роза",
+            "descr": "Роза пионовидная",
+            "numbers": "51 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "9 900",
+            "images": [
+                "51-roses/51-vuvuzella-rose.jpg",
+                "51-roses/51-bubles-rose.jpg"
+            ]
+        },
+        {
+            "name": "Букет из 25 Калл",
+            "descr": "Каллы",
+            "numbers": "25 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "8 900",
+            "images": [
+                "51-roses/25-white-callas.jpg",
+                "51-roses/25-red-callas.jpg",
+                "51-roses/25-black-callas.jpg"
+            ]
+        },
+        {
+            "name": "Каллы в вазе",
+            "descr": "Каллы",
+            "numbers": "25 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "9 500",
+            "images": [
+                "vase/white-callas-vase.jpg",
+                "vase/red-callas-vase.jpg",
+                "vase/black-callas-vase.jpg"
+            ]
+        },
+        {
+            "name": "Гортензии в вазе Classic",
+            "descr": "Гортензии",
+            "numbers": "5 шт.",
+            "packing": "ваза",
+            "packing_color": "",
+            "price": "5 400",
+            "images": [
+                "vase/red-gort-vase.jpg",
+                "vase/blue-gort-vase.jpg",
+                "vase/purple-gort-vase.jpg"
+            ]
+        }
+    ],
+    "products_2": []
+}

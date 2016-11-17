@@ -1,0 +1,20 @@
+mixin product(name, descr, numbers, packing, packing_color, price, images)
+  figure.product
+    .fotorama(data-autoplay='false' data-nav='thumbs' data-transition='dissolve' data-loop='true' data-startindex='0')
+      - for(var i = 0; i < images.length; i++)
+        img(src='static/media/' + images[i], alt='', width='64', height='64')
+    a(href='#').link.link_order
+      div.product__info
+        h3.product__name= name
+        if descr
+          p.product__info-category.product__descr= descr + ': '
+            span.product__info-data.product__numbers= numbers
+        if packing
+          p.product__info-category= 'Упаковка: '
+            span.product__info-data.product__packing= packing
+          if packing_color
+            p.product__info-category= 'Цвет упаковки: '
+              span.product__info-data.product__packing-color= packing_color
+        p.product__price
+          span.product__price-value= price + ' '
+          unescaped!='&#8381;'

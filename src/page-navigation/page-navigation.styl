@@ -1,0 +1,47 @@
+.page-navigation
+  background-color color-main
+
+  &__list
+    font-size 0
+    text-align center
+    list-style none
+    margin 0
+    padding 0
+
+  &__item
+    display inline-block
+    vertical-align top
+
+  &__link
+    color color-akcent
+    font 300 14px font-family-add
+    display inline-block
+    padding 20px 55px 20px 60px
+    max-width 360px
+    position relative
+
+    &:not(:last-of-type)
+      padding-right 45px
+
+    &::before
+      absolute-vertical-centered()
+      square(55px);
+      content ''
+      background-repeat no-repeat
+      background-position right center
+      background-size contain
+
+    &:hover
+      text-decoration none
+
+  &__item_hatbox a::before
+     background-image url('static/page-navigation.page-navigation__item_hatbox.svg')
+
+  &__item_classic a::before
+     background-image url('static/page-navigation.page-navigation__item_classc.svg')
+
+  &__item_vase a::before
+     background-image url('static/page-navigation.page-navigation__item_vase.svg')
+
+  &__item_millionroses a::before
+     background-image url('static/page-navigation.page-navigation__item_millionroses.svg')

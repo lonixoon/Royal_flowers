@@ -1,0 +1,126 @@
+.page-footer
+  padding-top 30px
+  background-color color-main
+
+  &__info
+    clearfix()
+    margin-bottom 30px
+
+  .about-us
+    float left
+    max-width 590px
+    margin-right 80px
+
+    &__text,
+    &__name
+      color font-color-light
+      font 14px font-family-add
+      line-height 1.4
+      margin 0
+
+    &__text
+      font-weight 300
+
+    &__name
+      font-weight 700
+
+  .footer-contacts
+    float left
+
+    &__text
+      color font-color-light
+      font-size 16px
+      font-weight 400
+      margin 0 0 12px 0
+
+    .btn_request-call
+      font-size 14px
+      padding 5px 25px
+      display block
+      margin-bottom 35px
+
+    .link_mail_us
+      color #fff
+      font 400 14px font-family-add
+      text-decoration none
+      border-bottom 1px solid #373fe1
+
+      &:hover
+        border-bottom none
+
+  .socials
+    float right
+
+    &__title
+      color font-color-light
+      font 300 14px font-family-add
+      line-height 1.7
+      margin 0
+
+    &__list
+      list-style none
+      padding 0
+      margin 0
+
+    &__item
+      display inline-block
+      vertical-align top
+
+      &:not(:last-of-type)
+        margin-right 20px
+
+    &__link
+      square(40px)
+      display inline-block
+      vertical-align top
+      position relative
+
+      &::before
+        absolute-centered()
+        square(38px)
+        content ''
+        border-radius 50%
+        background-repeat no-repeat
+        background-position center
+        background-size contain
+
+    &__link_fb
+      &::before
+        background-image url('static/page-footer.socials__link_fb.svg')
+
+      &:hover::before
+        background-image url('static/page-footer.socials__link_fb-hover.svg')
+
+    &__link_instagram
+      &::before
+        background-image url('static/page-footer.socials__link_insta.svg')
+
+      &:hover::before
+        background-image url('static/page-footer.socials__link_insta-hover.svg')
+
+    &__link_vk
+      &::before
+        background-image url('static/page-footer.socials__link_vk.svg')
+
+      &:hover::before
+        background-image url('static/page-footer.socials__link_vk-hover.svg')
+
+  .copyright
+    position relative
+
+    &::before
+      content ''
+      height 1px
+      background-color rgba(242, 242, 242, 0.2)
+
+      position absolute
+      top 0
+      left -40px
+      right -40px
+
+    &__text
+      color font-color-light
+      font 300 14px font-family-add
+      line-height 1.7
+      padding 24px 0
+      margin 0

@@ -1,0 +1,125 @@
+{
+    "products_1": [
+        {
+            "name": "25 роз Classic",
+            "descr": "Роза голландская",
+            "numbers": "25 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "3 900",
+            "images": [
+                "51-roses/25-white-rose-craft.jpg",
+                "51-roses/25-red-rose-craft.jpg",
+                "51-roses/25-pink-rose-craft.jpg",
+                "51-roses/25-purple-rose-craft.jpg",
+                "51-roses/25-yellow-rose-craft.jpg"
+            ]
+        },
+        {
+            "name": "51 роза Classic",
+            "descr": "Роза голландская",
+            "numbers": "51 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "6 500",
+            "images": [
+                "51-roses/51-white-rose-craft.jpg",
+                "51-roses/51-red-rose-craft.jpg",
+                "51-roses/51-piggy-rose-craft.jpg",
+                "51-roses/51-purple-rose-craft.jpg",
+                "51-roses/51-yellow-rose-craft.jpg",
+                "51-roses/51-orange-rose-craft.jpg",
+                "51-roses/51-mix2-rose-craft.jpg"
+            ]
+        },
+        {
+            "name": "101 роза Classic",
+            "descr": "Роза голландская",
+            "numbers": "51 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "9 500",
+            "images": [
+                "51-roses/101-white-rose-craft.jpg",
+                "51-roses/101-red-rose-craft.jpg",
+                "51-roses/101-purple-rose-craft.jpg",
+                "51-roses/101-yellow-rose-craft.jpg"
+            ]
+        },
+        {
+            "name": "Пионовидная роза",
+            "descr": "Роза пионовидная",
+            "numbers": "25 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "3 900",
+            "images": [
+                "51-roses/21-bubles-rose.jpg",
+                "51-roses/21-white-miniroses-craft.jpg",
+                "51-roses/21-yellow-miniroses-craft.jpg",
+                "51-roses/21-pink2-miniroses-craft.jpg",
+                "51-roses/21-pink-miniroses-craft.jpg"
+            ]
+        },
+        {
+            "name": "51 кустовая роза",
+            "descr": "Роза кустовая",
+            "numbers": "51 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "6 900",
+            "images": [
+                "51-roses/51-purple-miniroses-craft.jpg",
+                "51-roses/51-red-miniroses-craft.jpg",
+                "51-roses/51-pink-miniroses-craft.jpg"
+            ]
+        },
+        {
+            "name": "51 пионовидная роза",
+            "descr": "Роза пионовидная",
+            "numbers": "51 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "9 900",
+            "images": [
+                "51-roses/51-vuvuzella-rose.jpg",
+                "51-roses/51-bubles-rose.jpg"
+            ]
+        }
+    ],
+    "products_2": [
+        {
+            "name": "Микс из роз в крафте №1",
+            "descr": "Роза голландская",
+            "numbers": "51 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "6 500",
+            "images": [
+                "51-roses/51-mix-rose-craft.jpg"
+            ]
+        },
+        {
+            "name": "Микс из роз в крафте №2",
+            "descr": "Роза голландская",
+            "numbers": "51 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "6 500",
+            "images": [
+                "51-roses/51-mix1-rose-craft.jpg"
+            ]
+        },
+        {
+            "name": "3D роза в крафте",
+            "descr": "Роза 3D",
+            "numbers": "51 шт.",
+            "packing": "крафт/лента",
+            "packing_color": "",
+            "price": "6 500",
+            "images": [
+                "51-roses/51-mix2-rose-craft.jpg"
+            ]
+        }
+    ]
+}

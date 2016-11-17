@@ -1,0 +1,82 @@
+{
+    "products_1": [
+        {
+            "name": "Красные розы в корзине 501 шт.",
+            "descr": "Роза голландская",
+            "numbers": "501 шт.",
+            "packing": "корзина",
+            "packing_color": "",
+            "price": "84 500",
+            "images": [
+                "millionroses/501-red-rose.jpg"
+            ]
+        },
+        {
+            "name": "Белые розы в корзине 501 шт.",
+            "descr": "Роза голландская",
+            "numbers": "501 шт.",
+            "packing": "корзина",
+            "packing_color": "",
+            "price": "84 500",
+            "images": [
+                "millionroses/501-white-rose.jpg"
+            ]
+        },
+        {
+            "name": "Розовые розы в корзине 501 шт.",
+            "descr": "Роза голландская",
+            "numbers": "501 шт.",
+            "packing": "корзина",
+            "packing_color": "",
+            "price": "84 500",
+            "images": [
+                "millionroses/501-purple-rose.jpg"
+            ]
+        },
+        {
+            "name": "Синие розы в корзине 501 шт.",
+            "descr": "Роза голландская",
+            "numbers": "501 шт.",
+            "packing": "корзина",
+            "packing_color": "",
+            "price": "155 000",
+            "images": [
+                "millionroses/501-blue-rose.jpg"
+            ]
+        },
+        {
+            "name": "Радужные розы в корзине 501 шт.",
+            "descr": "Роза голландская",
+            "numbers": "501 шт.",
+            "packing": "корзина",
+            "packing_color": "",
+            "price": "135 000",
+            "images": [
+                "millionroses/501-rainbow-rose.jpg"
+            ]
+        },
+        {
+            "name": "Красные розы в корзине 1001 шт.",
+            "descr": "Роза голландская",
+            "numbers": "1001 шт.",
+            "packing": "корзина",
+            "packing_color": "",
+            "price": "135 000",
+            "images": [
+                "millionroses/1001-red-rose.jpg"
+            ]
+        },
+        {
+            "name": "Сердце из роз в корзине 1001 шт.",
+            "descr": "Роза голландская",
+            "numbers": "1001 шт.",
+            "packing": "корзина",
+            "packing_color": "",
+            "price": "145 000",
+            "images": [
+                "millionroses/1001-heart-rose.jpg"
+            ]
+        }
+    ],
+    "products_2": []
+}

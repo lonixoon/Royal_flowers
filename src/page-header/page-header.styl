@@ -1,0 +1,95 @@
+.page-header
+  background-color: #f2f2f2;
+
+  .content-wrapper
+    clearfix()
+
+  &__logo
+    float left
+    line-height 1
+    text-align center
+    min-width calc(100% - 525px)
+    margin 20px 0
+
+  .working-mode
+    float left
+    min-width 250px
+    margin 35px 0
+
+    &__text
+      max-width 250px
+      margin 0 0 8px 0
+
+  .contacts
+    float right
+    text-align right
+    min-width 250px
+    padding-left 25px
+    margin: 35px 0
+
+    &__phone
+      font-size 16px
+      max-width 300px
+      margin 0 0 4px 0
+
+    &__phone_whatsApp
+      color font-color-dark
+      text-decoration none
+      display block
+      position relative
+
+      &::before
+        square(15px)
+        absolute-vertical-centered()
+        left 100px
+        content ''
+        background url('static/page-header.contacts__phone_whatsApp.svg') no-repeat center
+        background-size contain
+
+  .link_request-call
+    text-decoration: none;
+    border-bottom: 1px dashed font-color-dark;
+
+    &:hover
+      border-bottom-style solid
+
+  .features
+    &__list
+      font-size 0
+      text-align center
+      list-style none
+      margin 0
+      padding 0
+
+    &__item
+      color #6b6b6b
+      font 300 14px font-family-add
+      display inline-block
+      vertical-align top
+      padding 20px 0 20px 55px
+      max-width 360px
+      position relative
+
+      &:not(:last-of-type)
+        padding-right 45px
+
+      &::before
+        absolute-vertical-centered()
+        width 40px
+        height 30px
+        content ''
+        background-repeat no-repeat
+        background-position right center
+        background-size contain
+
+    &__item_design::before
+       background-image url('static/page-header.features__item_design.svg')
+
+    &__item_premium::before
+       background-image url('static/page-header.features__item_premium.svg')
+
+    &__item_payment::before
+       background-image url('static/page-header.features__item_payment.svg')
+
+    &__item_delivery::before
+       background-image url('static/page-header.features__item_delivery.svg')

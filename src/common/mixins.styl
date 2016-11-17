@@ -1,0 +1,25 @@
+square(size)
+  width size
+  height size
+
+absolute-centered()
+  position absolute
+  top 50%
+  left 50%
+  transform translate(-50%, -50%)
+
+absolute-vertical-centered()
+  position absolute
+  top 50%
+  left 0
+  transform translateY(-50%)
+
+placeholder(color)
+  &::-webkit-input-placeholder
+    color color
+
+  &::-moz-placeholder
+    color color
+
+  &:-ms-input-placeholder
+    color color

@@ -1,0 +1,62 @@
+.form_order
+  .form__controls
+    .form__tips
+      margin 15px 0 0
+
+.chosen-product
+  clearfix()
+  margin-bottom 30px
+
+  &__img-container
+    float left
+    width 224px
+    height 226px
+    background-color #544841
+
+  &__info
+    float right
+    width calc(100% - 244px)
+    font 300 14px font-family-add
+
+  &__name,
+  &__price
+    color font-color-akcent
+    font-size 20px
+    margin 0
+
+  &__name
+    line-height 1.4
+    margin -5px 0 12px 0
+
+  &__details
+    line-height 1.5
+    margin 0 0 35px 0
+
+  &__bonuses
+    list-style none
+    padding 0
+    margin 0 0 25px 0
+
+  &__bonuses-item
+    padding-left 30px
+    position relative
+
+    &:not(:last-of-type)
+      margin-bottom 10px
+
+    &::before
+      absolute-vertical-centered()
+      square(20px)
+      content ''
+      background-repeat no-repeat
+      background-position center
+      background-size contain
+
+  &__bonuses-item_card::before
+    background-image url('static/form-order.chosen-product__bonuses-item_card.svg')
+
+  &__bonuses-item_free-delivery::before
+    background-image url('static/form-order.chosen-product__bonuses-item_free-delivery.svg')
+
+  &__bonuses-item_photo::before
+    background-image url('static/form-order.chosen-product__bonuses-item_photo.svg')

@@ -1,0 +1,38 @@
+doctype html
+html(lang='ru').root
+  head
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=1.0')
+    meta(http-equiv='X-UA-Compatible', content='ie=edge')
+    meta(http-equiv='Content-Type', content='text/html; charset=utf-8')
+    title Royal Flowers
+    link(type='image/x-icon', rel='icon', href='static/favicon.ico')
+    link(href='http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.5.2/fotorama.css', rel='stylesheet')
+    link(href='style.min.css', rel='stylesheet')
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js', defer)
+    script(src='http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.5.2/fotorama.js', defer)
+
+  body.root__body
+    include product/product
+    include page-header/page-header
+
+    main.main-content
+      .content-wrapper
+        section.products
+          .products__list
+            each product in products_1
+              +product(product.name, product.descr, product.numbers, product.packing, product.packing_color, product.price, product.images)
+
+          include personal-bouquet/personal-bouquet
+
+          if products_2
+            .products__list
+              each product in products_2
+                +product(product.name, product.descr, product.numbers, product.packing, product.packing_color, product.price, product.images)
+
+    include delivery/delivery
+    include page-footer/page-footer
+    include form-order/form-order
+    include form-request-call/form-request-call
+
+    script(src='script.min.js', defer)
