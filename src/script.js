@@ -65,7 +65,7 @@ function showModal(modal) {
         }
       }
       return text;
-    }
+    };
 
     $('.chosen-product__img').attr('src', productImg.attr('src'));
     $('.chosen-product__img').attr('alt', productImg.attr('alt'));
@@ -117,16 +117,17 @@ function postForm(modal) {
  * @param  {String}  message Текст сообщения
  */
 function sendNotifications(modal, message) {
-  let jqxhr = $.post('http://localhost:3000/send', { message: message })
-  .done(function() {
-    $(modal).find('.form').hide();
-    $(modal).find('.form-submission-result_error').hide();
-    $(modal).find('.form-submission-result_success').show();
-  })
-  .fail(function() {
-    $(modal).find('.form__controls .form__tips').hide();
-    $(modal).find('.form-submission-result_error').show();
-  });
+  $
+    .post('http://localhost:3000/send', { message: message })
+    .done(function() {
+      $(modal).find('.form').hide();
+      $(modal).find('.form-submission-result_error').hide();
+      $(modal).find('.form-submission-result_success').show();
+    })
+    .fail(function() {
+      $(modal).find('.form__controls .form__tips').hide();
+      $(modal).find('.form-submission-result_error').show();
+    });
 }
 
 /**
