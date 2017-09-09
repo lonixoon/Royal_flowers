@@ -118,7 +118,7 @@ function postForm(modal) {
  */
 function sendNotifications(modal, message) {
   $
-    .post('http://localhost:3000/send', { message: message })
+    .post('send.php', { message: message })
     .done(function() {
       $(modal).find('.form').hide();
       $(modal).find('.form-submission-result_error').hide();
